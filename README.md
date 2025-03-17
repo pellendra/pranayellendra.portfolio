@@ -40,13 +40,12 @@ Bachelors in Technology | Computer Science  |  Sri Chandrasekharendra Saraswathi
 - Optimized large datasets in MongoDB through indexing, aggregation, and leveraging Python for data query optimization.
 
 **Front-End Intern @ PureCode AI R&D India Pvt.Ltd  (_May 2021 - Oct 2021_)** 
-- Designed and developed a single-page web application using HTML, CSS, JavaScript, React, and MUI, focusing on delivering user-centric AI-driven solutions with a seamless UI/UX.
-- Implemented secure authentication protocols and session management to enhance user security and ensure smooth login and session handling across the platform.
-- Built interactive shopping carts and automated checkout systems, optimizing user experience with real-time feedback and smooth transitions during the purchase process.
-- Designed responsive user interfaces with mobile-friendly navigation, ensuring optimal performance across various devices.
-- Integrated APIs to enhance functionality and optimize application performance, supporting scalable AI solutions in collaboration with cross-functional teams.
+- Designed and developed a single-page web application using HTML, CSS, JavaScript, React, and MUI, focused on delivering user-centric AI-driven solutions with seamless UI/UX.
+- Implemented secure authentication protocols and session management to enhance user security and system performance.
+- Built interactive shopping carts and automated checkout systems, optimizing user experience with real-time feedback and smooth transitions.
+- Designed responsive user interfaces with mobile-friendly navigation, ensuring optimal performance across devices.
+- Integrated APIs to enhance functionality and optimize application performance in collaboration with cross-functional teams.
 - Conducted thorough testing and debugging to ensure high performance, meeting AI-related business demands and user satisfaction goals.
-- Collaborated with cross-functional teams to optimize application performance, ensuring a seamless and efficient user experience aligned with business needs.
 
 
 
