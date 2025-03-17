@@ -2,9 +2,11 @@
 I am a full-stack developer with 4 years of experience in building scalable back-end systems using Java, Spring Boot, and MongoDB, and dynamic front-end interfaces with ReactJS, HTML5, CSS3, and JavaScript. I specialize in developing RESTful APIs, implementing OAuth-based SSO, and managing state with Redux. I also have expertise in Agile, TDD, CI/CD pipelines (Jenkins, Docker, Kubernetes), and enterprise integrations with Spring and Apache Camel to optimize performance and stability.
 
 ## Education
-Master's In Information Technology  |  University of Cincinnati  |  USA    (_Dec 2024_) 
+Master's In Information Technology
+University of Cincinnati  |  USA    (_Dec 2024_) 
 
-Bachelors in Technology | Computer Science  |  Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya  |  India    (_June 2023_) 
+Bachelors in Computer Science & Engineering 
+Sri Chandrasekharendra Saraswathi Viswa Mahavidyalaya  |  India    (_June 2023_) 
 
 
 ## Technical Skills:
