@@ -7,7 +7,7 @@ Java, Spring Boot, MongoDB,ReactJS, HTML5, CSS3, JavaScript,RESTful APIs,Redux, 
 ## Work Experience
 **Full Stack Java Developer @ Dish (_Nov 2023 - Present_)**
 -Designed and developed RESTful APIs with Java Spring Boot to manage customer data, apply offers, and calculate discounts.
-Implemented microservices architecture for scalability and utilized Spring Data JPA, Hibernate, PostgreSQL, and MongoDB for efficient data handling.
+-Implemented microservices architecture for scalability and utilized Spring Data JPA, Hibernate, PostgreSQL, and MongoDB for efficient data handling.
 - Deployed the application on AWS using EC2, S3, ELB, and Auto Scaling for high availability, while optimizing API performance with Postman testing, caching, SQL queries, and NGINX for load balancing.
   
 
