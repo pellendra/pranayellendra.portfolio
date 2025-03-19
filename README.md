@@ -1,39 +1,44 @@
-# Full Stack Developer
-I am a full-stack developer with 4 years of experience in building scalable back-end systems using Java, Spring Boot, and MongoDB, and dynamic front-end interfaces with ReactJS, HTML5, CSS3, and JavaScript. I specialize in developing RESTful APIs, implementing OAuth-based SSO, and managing state with Redux. I also have expertise in Agile, TDD, CI/CD pipelines (Jenkins, Docker, Kubernetes), and enterprise integrations with Spring and Apache Camel to optimize performance and stability.
+<div style="display: flex; align-items: flex-start; justify-content: center; flex-wrap: wrap; gap: 40px;">
 
-## Technical Skills:
-Java, Spring Boot, MongoDB,ReactJS, HTML5, CSS3, JavaScript,RESTful APIs,Redux, React Router, Agile (SCRUM), TDD,Jenkins, Docker, Kubernetes,Spring Framework, Apache Camel
+    <!-- Left Column: Profile & Contact Info -->
+    <div style="flex: 1; min-width: 300px; padding: 10px; text-align: center;">
+        <img src="assets/pranay.jpg" width="200" alt="Pranay Ellendra" style="border-radius: 10px;">
+        <h3>Full Stack Developer</h3>
 
-## Work Experience
-**Full Stack Java Developer @ Dish (_Nov 2023 - Present_)**
+        <!-- LinkedIn & Resume Buttons -->
+        <a href="https://www.linkedin.com/in/pranay-ellendra-5712a3357" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        </a>
+        <a href="resume.pdf" target="_blank">
+            <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge">
+        </a>
 
-- Designed and developed RESTful APIs with Java Spring Boot to manage customer data, apply offers, and calculate discounts.
-- Implemented microservices architecture for scalability and utilized Spring Data JPA, Hibernate, PostgreSQL, and MongoDB for efficient data handling.
-- Deployed the application on AWS using EC2, S3, ELB, and Auto Scaling for high availability, while optimizing API performance with Postman testing, caching, SQL queries, and NGINX for load balancing.
-  
-**Full Stack Java Developer @ JPMorgan Chase  (_Feb 2023 - Oct 2023_)**
-- Developed a full-stack application using ReactJS for a dynamic UI and Ag-Grid for data management, with a Java Spring Boot backend and microservices architecture for scalability and secure communication.
-- Implemented REST APIs, integrated MongoDB for flexible data storage, and configured secure API endpoints with OAuth 2.0 to protect sensitive employee data and ensure compliance with security protocols.
+        <h3>Contact Information</h3>
+        <ul style="list-style: none; padding: 0; text-align: left; margin: 0 auto; display: inline-block;">
+            <li><strong>Email:</strong> ellendrapranay@gmail.com</li>
+            <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/pranay-ellendra-5712a3357" target="_blank">linkedin.com/in/pranay-ellendra-5712a3357</a></li>
+            <li><strong>GitHub:</strong> <a href="https://github.com/pellendra" target="_blank">github.com/pellendra</a></li>
+            <li><strong>Mobile:</strong> +1 513-290-6100</li>
+        </ul>
+    </div>
 
-**Software Developer @ Tera Data  (_Nov 2021 - Jan 2023_)**  
-- Developed data management and analytics applications using Waterfall methodology, ensuring structured development and project tracking.
-- Built dynamic web pages with HTML, CSS, JavaScript, and optimized data handling with SQL in Teradata; implemented ETL processes with Java, Spring Integration, and 
-  Apache Camel.
-- Created responsive UIs with ReactJS and integrated them with Spring Boot backends, implementing SSO with OAuth. Automated testing with Jest, React Testing Library, and JUnit, and optimized large datasets in MongoDB using indexing, aggregation, and Python.
+    <!-- Right Column: Work Experience -->
+    <div style="flex: 2; min-width: 400px; padding: 10px;">
+        <h3>Work Experience</h3>
 
-**Front-End Intern @ PureCode AI R&D India Pvt.Ltd  (_May 2021 - Oct 2021_)** 
-- Designed and developed a single-page web application using HTML, CSS, JavaScript, React, and MUI, focused on delivering user-centric AI-driven solutions with seamless UI/UX.
-- Implemented secure authentication, session management, and built interactive shopping carts with automated checkout systems, optimizing user experience and performance across devices.
-- Integrated APIs, collaborated with cross-functional teams, and conducted thorough testing and debugging to ensure high performance and meet business and user satisfaction goals.
+        <h4>Software Developer @ Tera Data <em>(Nov 2021 - Jan 2023)</em></h4>
+        <ul>
+            <li>Developed data management and analytics applications using Waterfall methodology.</li>
+            <li>Built dynamic web pages with HTML, CSS, JavaScript, and optimized data handling with SQL in Teradata.</li>
+            <li>Created responsive UIs with ReactJS and integrated them with Spring Boot backends.</li>
+        </ul>
 
+        <h4>Front-End Intern @ PureCode AI R&D Pvt. Ltd <em>(May 2021 - Oct 2021)</em></h4>
+        <ul>
+            <li>Designed and developed a single-page web application using HTML, CSS, JavaScript, React, and MUI.</li>
+            <li>Implemented secure authentication, session management, and interactive shopping carts.</li>
+            <li>Conducted thorough testing and debugging to ensure high performance and user satisfaction.</li>
+        </ul>
+    </div>
 
-
-
-
-
-
-
-
-
-
-
+</div>
