@@ -27,6 +27,27 @@ Java, Spring Boot, MongoDB,ReactJS, HTML5, CSS3, JavaScript,RESTful APIs,Redux, 
 - Integrated APIs, collaborated with cross-functional teams, and conducted thorough testing and debugging to ensure high performance and meet business and user satisfaction goals.
 
 
+<p align="center">
+    <img src="your-profile-picture.jpg" width="200" alt="Profile Picture">
+    <h3 align="center">Full Stack Developer</h3>
+    
+    <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="resume.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge">
+    </a>
+
+    <br><br>
+
+    <h3>Contact Information</h3>
+    <ul style="list-style: none; padding: 0; text-align: center;">
+        <li><strong>Email:</strong> ellendrapranay@gmail.com</li>
+        <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/pranay-ellendra-5712a3357" target="_blank">linkedin.com/in/pranay-ellendra-5712a3357</a></li>
+        <li><strong>GitHub:</strong> <a href="https://github.com/pellendra" target="_blank">github.com/pellendra</a></li>
+        <li><strong>Mobile:</strong> +1 513-290-6100</li>
+    </ul>
+</p>
 
 
 
