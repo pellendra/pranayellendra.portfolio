@@ -3,4 +3,14 @@ logo: /assets/pranay.jpg
 description: Full Stack Developer
 linkedin: "https://www.linkedin.com/in/your-profile"
 resume: "resume.pdf"  
+theme: jekyll-theme-minimal  
+
+social:
+  linkedin: "https://www.linkedin.com/in/pranay-ellendra-5712a3357"
+  github: "https://github.com/pellendra"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 
