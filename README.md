@@ -28,7 +28,7 @@ Java, Spring Boot, MongoDB,ReactJS, HTML5, CSS3, JavaScript,RESTful APIs,Redux, 
 
 
 <p align="center">
-    <img src="your-profile-picture.jpg" width="200" alt="Profile Picture">
+    <img src="assets/pranay.jpg" width="200" alt="Profile Picture">
     <h3 align="center">Full Stack Developer</h3>
     
     <a href="https://www.linkedin.com/in/your-profile" target="_blank">
@@ -41,7 +41,7 @@ Java, Spring Boot, MongoDB,ReactJS, HTML5, CSS3, JavaScript,RESTful APIs,Redux, 
     <br><br>
 
     <h3>Contact Information</h3>
-    <ul style="list-style: none; padding: 0; text-align: center;">
+    <ul style="list-style: none; padding: 0; text-align: flex-start;">
         <li><strong>Email:</strong> ellendrapranay@gmail.com</li>
         <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/pranay-ellendra-5712a3357" target="_blank">linkedin.com/in/pranay-ellendra-5712a3357</a></li>
         <li><strong>GitHub:</strong> <a href="https://github.com/pellendra" target="_blank">github.com/pellendra</a></li>
