@@ -27,7 +27,7 @@ Java, Spring Boot, MongoDB,ReactJS, HTML5, CSS3, JavaScript,RESTful APIs,Redux, 
 - Integrated APIs, collaborated with cross-functional teams, and conducted thorough testing and debugging to ensure high performance and meet business and user satisfaction goals.
 
 
-<p align="center">
+<p align="flex-start">
     
     
     <a href="https://www.linkedin.com/in/your-profile" target="_blank">
