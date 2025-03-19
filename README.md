@@ -27,8 +27,11 @@ Java, Spring Boot, MongoDB,ReactJS, HTML5, CSS3, JavaScript,RESTful APIs,Redux, 
 - Integrated APIs, collaborated with cross-functional teams, and conducted thorough testing and debugging to ensure high performance and meet business and user satisfaction goals.
 
 
+
 ## Contact Information
 
+[![View Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](Pranay_Ellendra.pdf)
+- **Resume** : "Pranay_Ellendra.pdf"
 - **E-mail** : ellendrapranay@gmail.com.
 - **LinkedIn** : www.linkedin.com/in/ pranay-ellendra-5712a3357.
 - **Github** : https://github.com/pellendra.
