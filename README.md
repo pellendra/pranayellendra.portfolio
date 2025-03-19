@@ -28,15 +28,7 @@ Java, Spring Boot, MongoDB,ReactJS, HTML5, CSS3, JavaScript,RESTful APIs,Redux, 
 
 
 
-## Contact Information
 
-
-- **Resume** : [![View Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge)](Pranay_Ellendra.pdf)
-  
-- **E-mail** : ellendrapranay@gmail.com.
-- **LinkedIn** : www.linkedin.com/in/ pranay-ellendra-5712a3357.
-- **Github** : https://github.com/pellendra.
-- **Mobile-number** : +1 513-290-6100.
 
 
 
