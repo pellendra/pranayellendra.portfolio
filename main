@@ -1,0 +1,28 @@
+title: Pranay Ellendra
+logo: /assets/pranay.jpg
+description: Full Stack Developer
+linkedin: "https://www.linkedin.com/in/your-profile"
+resume: "resume.pdf"  
+theme: jekyll-theme-minimal  
+
+social:
+  linkedin: "https://www.linkedin.com/in/pranay-ellendra-5712a3357"
+  github: "https://github.com/pellendra"
+
+
+
+<p> 
+    <a href="resume.pdf" target="_blank">
+        <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge">
+    </a>
+
+    <br><br>
+
+    <h3>Contact Information</h3>
+    <ul style="list-style: none; padding: 0; dispaly : flex; text-align: flex-start;">
+        <li><strong>Email:</strong> ellendrapranay@gmail.com</li>
+        <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/pranay-ellendra-5712a3357" target="_blank">linkedin.com/in/pranay-ellendra-5712a3357</a></li>
+        <li><strong>GitHub:</strong> <a href="https://github.com/pellendra" target="_blank">github.com/pellendra</a></li>
+        <li><strong>Mobile:</strong> +1 513-290-6100</li>
+    </ul>
+</p>
