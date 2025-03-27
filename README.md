@@ -1,11 +1,11 @@
-# Java Full Stack Developer
+t# Java Full Stack Developer
 
 ## Contact Information
  
 - **E-Mail**: [ellendrapranay@gmail.com](ellendrapranay@gmail.com)
 - **Phone**: (513) 290-6100.
  
-  **[LinkedIn](https://www.linkedin.com/in/pranay-ellendra-5712a3357/)** | **[Resume](./Pranay_Ellendra.pdf)** | **[GitHub](https://github.com/pellendra)** | **[Medium](https://medium.com/@ellendrapranay)**
+  **[LinkedIn](https://www.linkedin.com/in/pranay-ellendra-5712a3357/)** | **[Resume](./assets/Pranay_Ellendra.pdf)** | **[GitHub](https://github.com/pellendra)** | **[Medium](https://medium.com/@ellendrapranay)**
 
 ## About Me
 
